@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InClass14</string>
+    <string name="tripKey">Enter Trip Name</string>
+    <string name="searchkey">Search for a city</string>
+    <string name="search">Search</string>
+    <string name="addTrip">Add Trip</string>
+    <string name="api_key">AIzaSyDBlj2dsMhhomMSaxFyxPtECJB2xhGRM_4</string>
+    <string name="noTextKey">Add city to search. No results are available</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
